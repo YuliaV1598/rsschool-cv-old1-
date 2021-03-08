@@ -1,0 +1,153 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+    /*width: 100vh;
+    height: 100vw;*/
+    font-size:  20px;
+    font-family: 'Quicksand', sans-serif;
+    line-height: 40px;
+    color: rgb(0, 0, 0);
+
+    background-color: rgb(238, 208, 231);
+}
+
+h1 {
+    display: none;
+}
+.photo-name {
+    /*border: 1px solid blueviolet;*/
+}
+.photo {
+    background: url(D:\HTML&CSS&GIT\_MG_8824-2.jpg);
+    border:1px solid blueviolet;
+}
+.name {
+    text-align: center;
+    margin-left: 450px;
+    font-size: 60px;
+    font-family: 'Libre Franklin', sans-serif;
+    line-height: 1.2;*/
+}
+.contact {
+    margin-left: 100px;
+    border-left: 1px solid blueviolet;
+}
+.contact h2 {
+    display: none;
+}
+.goals{
+    /*border:1px solid blueviolet;*/
+    margin-left: 550px;
+    width: 750px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(127, 75, 247);
+}
+.goals-h2{
+    /*border:1px solid blueviolet;*/
+    width: 100px;
+    height: 40px;
+    border-radius: 20px solid;
+    /*background-color: #d3e777;*/
+}
+.goals-p {
+    /*border:1px solid blueviolet;*/
+    width: 450px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.strengths {
+    margin-left: 550px;
+    width: 750px;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    /*border:1px solid blueviolet;*/
+    border-bottom: 1px solid rgb(127, 75, 247);
+}
+
+.strengths-h2 {
+    width: 130px;
+    height: 40px;
+    border-radius: 20px solid;
+    /*border:1px solid blueviolet;*/
+}
+
+.strengths ul {
+    width: 450px;
+    height: 40px;
+    font-size: 30px;
+    /*border:1px solid blueviolet;*/
+}
+
+.education {
+    margin-left: 550px;
+    margin-top: 50px ;
+    width: 750px;
+    height: 390px;
+    display: flex;
+    justify-content: space-between;
+    /*border:1px solid blueviolet;*/
+    border-bottom: 1px solid rgb(127, 75, 247);
+}
+
+.education h2 {
+    width: 130px;
+    height: 40px;
+    border-radius: 20px solid;
+    /*border:1px solid blueviolet;*/
+}
+
+.education p{
+    width: 450px;
+    height: 40px;
+    font-size: 30px;
+    /*border:1px solid blueviolet;*/
+}
+
+.work {
+    margin-left: 550px;
+    width: 760px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(127, 75, 247);
+}
+
+.work h2 {
+    width: 150px;
+    height: 80px;
+    text-align: center;
+    vertical-align:;
+    /*border: 1px solid blueviolet;*/
+    
+}
+
+.work p {
+    width: 450px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.languages {
+    margin-left: 550px;
+    width: 750px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.languages h2 {
+    width: 130px;
+    height: 40px;
+    /*border-radius: 20px solid;*/
+}
+
+.languages p{
+    width: 450px;
+    height: 40px;
+    font-size: 30px;
+}
